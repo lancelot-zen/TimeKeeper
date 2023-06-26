@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="[https://as1.ftcdn.net/v2/jpg/04/13/85/12/1000_F_413851294_81WJkpcXxgaW9q3fNVTSMjBORPUFQZ7O.jpg](https://w0.peakpx.com/wallpaper/322/965/HD-wallpaper-stein-gates-anime-black-faid-graphy-glow.jpg)" width="75" height="75"/>
+  <img src="https://github.com/lancelot-zen/TimeKeeper/blob/main/assets/peakpx.jpg" width="200" height="200"/>
 </p>
 
 <h1 align="center">Time Keeper</h1>
